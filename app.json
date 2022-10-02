@@ -1,0 +1,6 @@
+{
+  "name": "PHP web conferences",
+  "description": "Web site for storing information about conferences written in PHP",
+  "repository": "https://github.com/znikhinz/php_conferences",
+  "addons": []
+}
